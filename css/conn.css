@@ -1,0 +1,55 @@
+.size{
+	font-size: 18px!important;
+	height: 0;
+}
+.carousel-indicators li{
+	width: 0.8rem;height: 0.8rem;
+	border-radius: 50%;
+	background-color: #fff;
+	margin-left: 0.25rem;    
+	margin-right: 0.25rem;
+}
+.carousel-indicators .active{
+	background-color: #0aa1ed;
+}
+.carousel-control-next,.carousel-control-prev{
+	width: 4%;height: 5%;
+	background-color: #aaa;
+	border-radius: 0.25rem;
+	top: 40%;
+}
+.carousel-control-next{
+	right: 0.5rem;
+}
+.carousel-control-prev{
+	left: 0.5rem;
+}
+.carousel-control-prev,.carousel-control-next{width: 30px;height: 30px}
+.ll{
+	color: #000000!important;
+}
+a:hover{
+	color: #333333!important;
+	text-decoration: none;
+}
+h4{
+	color: #ff6621;
+}
+h4 s{
+	font-size: 6px;
+	color: #aaa;
+}
+h6{
+	font-size: 20px;
+}
+h6 span{
+	font-size: 5px;
+	color: #666;
+}
+.cc{
+	padding: 0 100px;
+}
+p a{
+	color: #ff6621!important;
+}
+	
